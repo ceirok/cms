@@ -1,0 +1,17 @@
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+html, body {
+	font-size: 16px;
+	line-height: 20px;
+}
+body {
+	font-family: Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+}
+ul, ol {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
